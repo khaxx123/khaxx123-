@@ -29,14 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaxx123&show_icons=true&theme=radical" alt="Khahini's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaxx123&theme=radical" alt="Khahini's GitHub streak" />
-</p>
-
----
-
 ### 🌐 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khahinibi06/)  
