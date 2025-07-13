@@ -30,7 +30,7 @@ Over the past year, I've taken a **self-driven path** into data analytics:
 
 ---
 
-### 🧰 Toolbox
+### 🧠 Toolbox
 
 #### 💻 Programming & Query Languages  
 `Python` `SQL` `C`
@@ -69,6 +69,4 @@ This role has sharpened my skills in **teamwork**, **decision-making**, and **lo
 
 I love **clean code, strong chai, and solving real problems with data**.  
 Whether it's debugging a Python script or brainstorming a dashboard layout — I’m always excited by work that has impact and meaning.
-
----
 
