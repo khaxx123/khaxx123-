@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a0a12,50,6d1a3a,100,c2185b&height=230&section=header&text=Khahini%20Boopathi&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%C2%B7%20AI%20Engineer%20%C2%B7%20Vibe%20Coder&descAlignY=62&descColor=f48fb1&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,3d0020,40,8b1a4a,70,c2185b,100,f48fb1&height=260&section=header&text=Khahini%20Boopathi&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%C2%B7%20AI%20Engineer%20%C2%B7%20Vibe%20Coder&descAlignY=65&descColor=ffe0ec&animation=twinkling" />
 
 <div align="center">
 
@@ -273,6 +273,6 @@ open_to    = ["internships", "collabs", "cool AI + data builds"]
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,c2185b,50,6d1a3a,100,1a0a12&height=130&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,f48fb1,40,c2185b,70,8b1a4a,100,3d0020&height=160&section=footer&animation=twinkling" />
 
 </div>
